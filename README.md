@@ -6,3 +6,4 @@ added nav
 added title as "marketingGEM"
 changed div to nav in css
 added hero start and stop points in css
+added style start and end headers in css
