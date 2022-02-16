@@ -15,4 +15,4 @@ changed css to match HTML layout
 <img width="1512" alt="Screen Shot 2022-02-09 at 8 20 36 PM" src="https://user-images.githubusercontent.com/98237529/153320077-34fdc59b-9c58-4740-b0c6-9b180fda657d.png">
 <img width="1512" alt="Screen Shot 2022-02-09 at 8 20 57 PM" src="https://user-images.githubusercontent.com/98237529/153320081-d1c4ab9d-afcf-4f12-997c-38b151f6f2d6.png">
 
-deployed url link file:///Users/sophiadavis/Desktop/MarketingGEM/marketingGEM.html
+deployed url link  https://sdavis525.github.io/MarketingGEM/
